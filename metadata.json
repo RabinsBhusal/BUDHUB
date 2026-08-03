@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Finance Platform",
+  "description": "A premium, dark-mode first personal finance dashboard with real-time AI insights, smart categories, goal tracking, and automated budget assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
